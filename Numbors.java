@@ -9,34 +9,34 @@ public class Numbors {
 
     public printNumbor(){
         if(num == 1){
-            System.out.println("one");
+            System.out.println("1");
         }
         if(num == 2){
-            System.out.println("two");
+            System.out.println("2");
         }
         if(num == 3){
-            System.out.println("three");
+            System.out.println("3");
         }
         if(num == 4){
-            System.out.println("four");
+            System.out.println("4");
         }
         if(num == 5){
-            System.out.println("five");
+            System.out.println("5");
         }
         if(num == 6){
-            System.out.println("six");
+            System.out.println("6");
         }
         if(num == 7){
-            System.out.println("seven");
+            System.out.println("7");
         }
         if(num == 8){
-            System.out.println("eight");
+            System.out.println("8");
         }
         if(num == 9){
-            System.out.println("nine");
+            System.out.println("9");
         }
         if(num == 10){
-            System.out.println("ten");
+            System.out.println("10");
         }
     }
 
