@@ -1,3 +1,1 @@
-# gitworkflow
-
-Demo of a git workflow
+# git workflow demos
