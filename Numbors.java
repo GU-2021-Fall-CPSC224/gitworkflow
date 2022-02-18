@@ -1,3 +1,5 @@
+
+
 public class Numbors {
     int num;
 
@@ -49,6 +51,34 @@ public class Numbors {
         if (num == 14) {
             return true;
         }
-
+        if (num == 15) {
+            return false;
+        }
+        if (num == 16) {
+            return true;
+        }
+        if (num == 17) {
+            return false;
+        }
+        if (num == 18) {
+            return true;
+        }
+        if (num == 19) {
+            return false;
+        }
+        if (num == 20) {
+            return true;
+        }
+        if (num == 21) {
+            return false;
+        }
+        if (num == 22) {
+            return true;
+        }if (num == 23) {
+            return false;
+        }
+        if (num == 24) {
+            return true;
+        }
     }
 }
