@@ -1,8 +1,6 @@
 # git workflow demos
-<<<<<<< HEAD
+
 # Fun Fact:
 # Armadillos can catch leprosy
-=======
 
-Moving main
->>>>>>> origin/slappy
+Read aCatAppleBranchText before looking at aCatAppleBranch.png
