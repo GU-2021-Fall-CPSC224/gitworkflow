@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hello world
+=======
+this is text
+>>>>>>> main
